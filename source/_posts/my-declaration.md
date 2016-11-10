@@ -3,7 +3,7 @@ title: 我的宣言
 ---
 欢迎来到景樗子刘的个人博客.
 
-![鹳鸟](../images/avatar_origin.jpg)
+![鹳鸟](/images/avatar_origin.jpg)
 
 ## 关注领域
 
