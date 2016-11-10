@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: 景樗子刘的幻境
 subtitle:
 description: 世界微尘里，吾宁爱与憎。
 author: 景樗子刘
@@ -68,7 +68,9 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repository: https://git.duapp.com/appidcff2k0bt0e
+  branch: master
 
 #user meta info
 avatar: /images/avatar_882.jpg
