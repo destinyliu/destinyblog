@@ -49,6 +49,7 @@ category_map:
 tag_map:
 	软件架构: architecture
 	系统设计: system-design
+  微服务: micro-services
 	其他: other
 
 # Date / Time format
